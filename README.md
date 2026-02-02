@@ -1,6 +1,6 @@
-📌 Project 1 — Carint
-HTML • CSS • JavaScript
-A responsive, interactive car showcase / landing page built using HTML, CSS and JavaScript.
+# 📌 Project 1 — Carint
+#HTML • CSS • JavaScript
+#A responsive, interactive car showcase / landing page built using HTML, CSS and JavaScript.
 
 🌟 Project Overview:
 Carint is a modern, lightweight web interface designed to showcase car information, features, and interactions using vanilla HTML, CSS, and JavaScript.
